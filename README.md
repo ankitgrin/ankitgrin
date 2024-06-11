@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I’m a front-end developer with over <b>3 years</b> of experience. I enjoy building <b>websites<b/>.<br><br>🌱 **I’m currently learning:**  <br>Three.js and React Three Fiber.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs and Three.js.
+Hello, I’m a front-end developer with over <b>3 years</b> of experience.<br> I enjoy building <b>websites<b/>.<br><br>🌱 **I’m currently learning:**  <br>Three.js and React Three Fiber.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs and Three.js.
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ankitgrin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankitgrin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitgrin)
